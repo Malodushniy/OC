@@ -1,0 +1,28 @@
+3.пункт
+man - дocтyп к cпpaвoчным cтpaницaм
+apropos - пoиcк в имeнax cпpaвoчныx cтpaниц и кpaткиx oпиcaнияx
+ls - list directory contents
+pwd - показывает директорию где находится пользователь
+mkdir - make directories
+rmdir - remove empty directories
+cp - copy files and directories
+mv - move (rename) files
+rm - remove files or directories
+cat - concatenate files and print on the standard output
+echo - display a line of text
+less - opposite of more
+touch - change file timestamps
+grep, egrep, fgrep, rgrep - print lines matching a pattern
+date - print or set the system date and time
+history - GNU History Library
+cd - Change the shell working directory.
+4.пункт
+cd [Enter] - переходит в домашний каталог пользователя (/home/ger) - абсолютный путь каталога
+cd /home/ger - переходит в дом. каталог поьзователя
+5.пункт
+PATH: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+в MANPATH и PAGER пусто
+6.пункт
+есть права на свою директори /home/ger и к папке tmp
+7.пункт
+Да, но только копирование файлов
