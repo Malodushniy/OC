@@ -1,2 +1,2 @@
 all:
-	g++ /home/valentin/2/2.cpp -o /home/valentin/2/2
+	g++ src/3.cpp -o bin/lab2

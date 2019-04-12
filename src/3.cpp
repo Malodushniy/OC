@@ -1,8 +1,9 @@
 #include <iostream>
 #include <cstdlib>
 using namespace std;
-int main( )
+int main()
 {
-cout <<"Привет мир!!"<<endl;
+cout <<"Привет, мир!"
+<< endl;
 return 0;
 }
