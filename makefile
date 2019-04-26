@@ -16,3 +16,4 @@ lab34:
 	g++ -pthread lab34.o -o lab34
 clean:
 	rm -R lab3*.o
+
